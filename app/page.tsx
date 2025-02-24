@@ -124,7 +124,7 @@ export default function Home() {
             autoPlay
             muted
             playsInline
-            className="absolute inset-0 w-full h-full object-cover"
+            className="w-full h-auto aspect-video"
             onEnded={() => setIsIntroPlayed(true)} // Render sections only after video ends
           >
             <source src="/intro.mp4" type="video/mp4" />
@@ -136,46 +136,46 @@ export default function Home() {
         <>
       {/* Header */}
       <header className="fixed w-full z-50 bg-[#0A0C10]/96 backdrop-blur-sm border-b border-[#D5B577]/20">
-        <div className="container mx-auto px-4 py-6 flex justify-between items-center">
+        <div className="container mx-auto px-4 py-6 flex justify-between items-center gap-2 sm:gap-4">
           <motion.h1
             initial={{ x: -100, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
-            className="text-2xl font-bold flex items-center gap-3"
+            className="text-2xl flex flex-wrap justify-center items-center gap-2 sm:gap-4"
           >
             <Image
               src='/mlsc.png'
               alt="Praxis Logo"
               width={60}
               height={60}
-              className="opacity-80"
+              className="w-10 sm:w-12 md:w-16 opacity-80"
             />
              <Image
               src='/IEEE.png'
               alt="Praxis Logo"
               width={60}
               height={60}
-              className="opacity-80"
+              className="w-10 sm:w-12 md:w-16 opacity-80"
             />
              <Image
               src='/pccoe-logo-removebg-preview.png'
               alt="Praxis Logo"
               width={60}
               height={60}
-              className="opacity-80"
+              className="w-10 sm:w-12 md:w-16 opacity-80"
             />
             <Image
               src='/gdgc.png'
               alt="Praxis Logo"
               width={80}
               height={80}
-              className="opacity-80"
+              className="w-10 sm:w-12 md:w-16 opacity-80"
             />
             <Image
               src='/ITSA.png'
               alt="Praxis Logo"
               width={60}
               height={60}
-              className="opacity-80"
+              className="w-10 sm:w-12 md:w-16 opacity-80"
             />
            
           </motion.h1>
