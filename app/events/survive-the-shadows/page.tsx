@@ -17,7 +17,7 @@ const rounds = [
     title: "Round 1: The Mind Test",
     description: "Test with tricky questions, riddles or mystery puzzles.",
     details: [
-      "Mode: Offline PCCOE IT Building",
+      "Mode: Offline",
       "Date: 7th March",
       "30 questions, 2 marks each",
       "No negative marking",
@@ -35,7 +35,7 @@ const rounds = [
     title: "Round 2: The Maze Room",
     description: "Participants are trapped in a haunted location and must escape within a time limit.",
     details: [
-      "Venue: Offline IT Building",
+      "Mode: Offline ",
       "Clues and puzzles will be given.",
       "Solve them to get the key for escaping the room",
       "Time limit - 5 min/team",
@@ -44,13 +44,12 @@ const rounds = [
     rules: [
       "No mobile phones or laptops allowed",
       "No external assistance",
-      "Individual presentations only",
-      "Time limit per participant",
+      "Time limit per team",
     ],
   },
   {
     title: "Round 3: Confession Room",
-    description: "Participants are blindfolded and must solve the riddle.",
+    description: "Participants are blindfolded in a room and must solve the riddle.",
     details: [
       "Top 6 teams qualify",
       "Venue: IT Department classroom",

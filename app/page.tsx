@@ -24,7 +24,7 @@ const events = [
     house: "House Greyjoy",
     link: "/events/survive-the-shadows",
     prize: "₹12,000",
-    rounds: ["Mind Test", "Escape Room", "Confession Room"],
+    rounds: ["Mind Test", "Maze Room", "Confession Room"],
   },
   {
     name: "Throne Pitch",
@@ -50,7 +50,7 @@ const events = [
     icon: "/wolf-got-removebg-preview.png",
     house: "House Stark",
     link: "/events/reverse-hackathon",
-    prize: "₹15,000",
+    prize: "10,000",
     rounds: ["Build-on-the-go", "Fullstack Bug Fixing"],
   },
   {
@@ -59,7 +59,7 @@ const events = [
     icon: "/dragon-got-removebg-preview.png",
     house: "House Targaryen",
     link: "/events/ai-canvas",
-    prize: "₹15,000",
+    prize: "₹10,000",
     rounds: ["Poster Making", "Pictogram Prowess", "Comic Catalyst"],
   },
   {
@@ -68,7 +68,7 @@ const events = [
     icon: "/lion-got-removebg-preview.png",
     house: "House Lannister",
     link: "/events/problemathon",
-    prize: "₹15,000",
+    prize: "₹10,000",
     rounds: ["Spark Start", "Duo Dash", "Code Crown"],
   },
   {
