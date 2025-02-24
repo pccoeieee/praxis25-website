@@ -108,7 +108,7 @@ export default function CrickBlitzEvent() {
                 <Trophy className="h-6 w-6" />
                 <div>
                   <p className="text-sm text-[#D5B577]/60">Prize Pool</p>
-                  <p className="font-bold">₹15,000</p>
+                  <p className="font-bold">₹12,000</p>
                 </div>
               </div>
               <div className="flex items-center gap-3">

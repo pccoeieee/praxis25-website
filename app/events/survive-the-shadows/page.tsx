@@ -32,7 +32,7 @@ const rounds = [
     ],
   },
   {
-    title: "Round 2: The Escape Room",
+    title: "Round 2: The Maze Room",
     description: "Participants are trapped in a haunted location and must escape within a time limit.",
     details: [
       "Venue: Offline IT Building",
@@ -107,7 +107,7 @@ export default function ShipwreckEvent() {
                 <Trophy className="h-6 w-6" />
                 <div>
                   <p className="text-sm text-[#D5B577]/60">Prize Pool</p>
-                  <p className="font-bold">₹15,000</p>
+                  <p className="font-bold">₹12,000</p>
                 </div>
               </div>
               <div className="flex items-center gap-3">
@@ -175,7 +175,7 @@ export default function ShipwreckEvent() {
             >
 
 <h1>Event Leads</h1>
-                <h2>Riya Kulkarni (8767545503)</h2>
+                <h2>Riya Kulkarni (7888021155)</h2>
                 <h2>Anushka k (8999649728)</h2>
                 <h1>.....................................</h1>
               <Button className="w-full md:w-auto bg-[#D5B577] text-[#0A0C10] hover:bg-[#FFD700]">
