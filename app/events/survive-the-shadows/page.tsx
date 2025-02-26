@@ -178,7 +178,7 @@ export default function ShipwreckEvent() {
                 <h2>Anushka k (8999649728)</h2>
                 <h1>.....................................</h1>
               <Button className="w-full md:w-auto bg-[#D5B577] text-[#0A0C10] hover:bg-[#FFD700]">
-           <a href="https://drive.google.com/file/d/1o1P8Qv8nfMQiDYxLkfxaTxX2WDmNfKTU/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+           <a href="https://drive.google.com/file/d/19nOAOo-6aCkuEmVc-HsjFLmRPDPtIRp3/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
                  Rulebook
            </a>
               </Button>

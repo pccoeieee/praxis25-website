@@ -19,7 +19,7 @@ const rounds = [
     details: [
       "Mode: Online",
       "Submission: PowerPoint Presentation (PPT)",
-      "Deadline: 7th March 2025, 2 P.M",
+      "Deadline: 6th March 2025, 6 P.M",
       "Submission link will be shared via WhatsApp group",
     ],
     rules: [
@@ -179,7 +179,7 @@ export default function CrickBlitzEvent() {
                 <h2>Arunima Pingali (7743861208)</h2>
                 <h1>.....................................</h1>
               <Button className="w-full md:w-auto bg-[#D5B577] text-[#0A0C10] hover:bg-[#FFD700]">
-           <a href="https://drive.google.com/file/d/1JqoKjlFEVIVYB4liHSR1b0QKwRRHvABk/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+           <a href="https://drive.google.com/file/d/19W0lli4xQFRLfkZ6SKO7d_6G-10SkpEk/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                  Rulebook
            </a>
               </Button>
